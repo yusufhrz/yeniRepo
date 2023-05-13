@@ -11,7 +11,7 @@ public class Class01 {
         // local den sevgilerle
         // remote dan yeni islem
 
-        // version 6 ...
+        // version 6 . ..
 
 
     }
