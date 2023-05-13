@@ -12,6 +12,7 @@ public class Class01 {
         // remote dan yeni islem
 
         // version 6 . ..
+        // v7
 
 
     }
